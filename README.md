@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsujonsheikh" alt="iamsujonsheikh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamsujonsheikh" target="blank"><img src="https://img.shields.io/twitter/follow/iamsujonsheikh?logo=twitter&style=for-the-badge" alt="iamsujonsheikh" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://sujonsheikh.vercel.app/](https://sujonsheikh.vercel.app/)
 
 - 💬 Ask me about **Mern-stack**
