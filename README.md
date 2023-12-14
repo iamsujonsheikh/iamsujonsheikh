@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, 𝕀'𝕞 𝕊𝕦𝕛𝕠𝕟 𝕊𝕙𝕖𝕚𝕜𝕙.👨‍💻</h1>
+<h1 align="center">Hi there 👋, 𝕀'𝕞 𝕊𝕦𝕛𝕠𝕟 𝕊𝕙𝕖𝕚𝕜𝕙.👨‍💻</h1>
 <h3 align="center">A passionate Full-stack developer from Bangladesh.</h3>
 
 <img src="https://miro.medium.com/v2/resize:fit:3200/format:webp/0*de0IdiUSoJTwgsys.gif" width="100%">
